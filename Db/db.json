@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "nature_lover",
+      "profilePic": "src/assets/name 1.webp",
+      "imageUrl": "src/assets/name 1.webp",
+      "caption": "Exploring the mountains 🏔️ #adventure",
+      "likes": 341,
+      "comments": [
+        {
+          "user": "traveler_dan",
+          "comment": "Looks awesome!"
+        },
+        {
+          "user": "sky_watcher",
+          "comment": "Wish I could be there!"
+        }
+      ],
+      "timestamp": "2025-06-15T14:20:00Z"
+    },
+    {
+      "id": 2,
+      "username": "foodie_jane",
+      "profilePic": "src/assets/name 2.webp",
+      "imageUrl": "src/assets/name 2.webp",
+      "caption": "Brunch with bae 💕🥞",
+      "likes": 589,
+      "comments": [
+        {
+          "user": "chef_master",
+          "comment": "That looks delicious!"
+        }
+      ],
+      "timestamp": "2025-06-15T16:45:00Z"
+    },
+    {
+      "id": 3,
+      "username": "fitness_freak",
+      "profilePic": "src/assets/image 3.jpeg",
+      "imageUrl": "src/assets/image 3.jpeg",
+      "caption": "Never skip leg day! 💪",
+      "likes": 432,
+      "comments": [],
+      "timestamp": "2025-06-14T08:30:00Z"
+    }
+  ],
+  "profile":{
+      "id": 1,
+      "username": "nature_lover",
+      "profilePic": "src/assets/name 1.webp",
+      "imageUrl": "src/assets/name 1.webp"
+
+  },
+  "Suggestions":[
+    {
+      "id": 1,
+      "username": "nature_lover",
+      "profilePic": "src/assets/name 1.webp"
+    },
+    {
+     "id": 2,
+      "username": "foodie_jane",
+      "profilePic": "src/assets/name 2.webp"
+    },
+    {
+     "id": 3,
+      "username": "fitness_freak",
+      "profilePic": "src/assets/image 3.jpeg"
+    }
+
+  ],
+  "Stories":[
+     {
+      "id": 1,
+      "username": "nature_lover",
+      "profilePic": "src/assets/name 1.webp",
+      "imageUrl": "src/assets/name 1.webp"
+     },
+     {
+      "id": 2,
+      "username": "foodie_jane",
+      "profilePic": "src/assets/name 2.webp",
+      "imageUrl": "src/assets/name 2.webp"
+     },
+     {
+      "id": 3,
+      "username": "fitness_freak",
+      "profilePic": "src/assets/image 3.jpeg",
+      "imageUrl": "src/assets/image 3.jpeg"
+     }
+  ],
+  "Followers":[
+    {
+      "id": 1,
+      "username": "nature_lover",
+      "profilePic": "src/assets/name 1.webp"
+    },
+    {
+      "id": 2,
+      "username": "foodie_jane",
+      "profilePic": "src/assets/name 2.webp"
+    },
+    {
+       "id": 3,
+      "username": "fitness_freak",
+      "profilePic": "src/assets/image 3.jpeg"
+    }
+  ]
+}
+
+
